@@ -170,3 +170,4 @@ hyperparameters
 data/datasets
 .DS_Store
 hyperparameters_lag_transformer
+lag-llama.ckpt
