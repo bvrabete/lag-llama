@@ -1,6 +1,5 @@
 gluonts[torch]
 numpy==1.23.5
-pytorch_lightning
 torch>=2.0.0
 wandb
 scipy
