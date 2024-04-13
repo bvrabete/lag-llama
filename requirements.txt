@@ -1,8 +1,8 @@
 gluonts[torch]
 numpy==1.23.5
-torch>=2.0.0
+torch>=2.0.1
 wandb
-scipy
+scipy==1.12.0
 pandas==2.1.4
 huggingface_hub[cli]
 chardet
